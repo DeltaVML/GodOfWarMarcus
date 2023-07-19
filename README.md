@@ -17,7 +17,7 @@ Contact Me, If You Need For Me For Work.
 
 
 MUST WATCH BEFORE USE:
-
+https://youtu.be/yzeybmFn2D0, THE VIDEO LINK, OF MY WORK.
 
 
 
@@ -42,5 +42,4 @@ I Had To Remove The Vocab Npy For data.py For File Size. So Its Just
 Word: Number. 3.8 million tokens 1.8GB
 
 URL:
-https://youtu.be/yzeybmFn2D0
 https://www.linkedin.com/in/marcus-rose-188b691b0/
