@@ -1,0 +1,14 @@
+
+
+
+The test, where the agent learns in linear way. BASIC TAGGED.
+
+
+
+
+
+
+
+
+
+

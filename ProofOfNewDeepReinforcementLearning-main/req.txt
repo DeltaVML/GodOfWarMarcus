@@ -1,0 +1,7 @@
+
+
+pip install tensorflow
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install gym[atari,accept-rom-license]
