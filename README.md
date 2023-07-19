@@ -16,6 +16,10 @@ A New Deep Reinfocrment Learning Method, With Video, Explaining Who I am.
 Contact Me, If You Need For Me For Work. 
 
 
+MUST WATCH BEFORE USE:
+
+
+
 
 # GodOfWar
 
@@ -36,5 +40,7 @@ I wrote this quick, as fear for my security.
 I Had To Remove The Vocab Npy For data.py For File Size. So Its Just
 
 Word: Number. 3.8 million tokens 1.8GB
+
+URL:
 
 https://www.linkedin.com/in/marcus-rose-188b691b0/
