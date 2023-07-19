@@ -13,6 +13,8 @@ pip install opencv-python"
 A New Deep Reinfocrment Learning Method, With Video, Explaining Who I am.
 
 
+A VALUE TO VALUE BASED DECYPTION METHOD.
+
 Contact Me, If You Need For Me For Work. 
 
 
@@ -46,3 +48,4 @@ https://www.linkedin.com/in/marcus-rose-188b691b0/
 
 
 Run It A Few Times.
+
