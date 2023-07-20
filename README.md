@@ -1,51 +1,51 @@
 
 
 
-Requirments
-"pip install gym
-pip install tensorflow
-pip install numpy 
-pip install matplotlib
-pip install pandas
-pip install opencv-python"
+A Fastly Optmizing Deep Reinfocrment Learning Method.
 
 
-A New Deep Reinfocrment Learning Method, With Video, Explaining Who I am.
-
-
-A VALUE TO VALUE BASED DECYPTION METHOD.
-
-Contact Me, If You Need For Me For Work. 
-
-
-MUST WATCH BEFORE USE:
-https://youtu.be/yzeybmFn2D0, THE VIDEO LINK, OF MY WORK.
+Paper Coming Soon
 
 
 
-# GodOfWar
+Topic 
 
-Check My Youtube
-
-
-<!-- Blackout Training -->
-
-
-<!-- Attri Training. -->
-cd GodOfWar/ProofOfNewDeepReinforcementLearning-main/
-python main.py gpu=0 
-
-I wrote this quick, as fear for my security. 
+ -  A New Scalable Agent, That Can Work With Huge Amounts Of Numbers In A Very Fast Time.
+ -  A Working Bleading Edge Optimization Method, To Create AI & Devlope With.
 
 
 
-I Had To Remove The Vocab Npy For data.py For File Size. So Its Just
-
-Word: Number. 3.8 million tokens 1.8GB
-
-URL:
-https://www.linkedin.com/in/marcus-rose-188b691b0/
 
 
-Run It A Few Times.
+There are two folders:
 
+
+One: " ProofOfNewDeepRein..."
+
+Being a showcase of the method, that allows it to work against a OpenAI gym attri enviorment.
+
+Two: "BLACKOUT"
+
+A Template For Decypting Any Encyption Algorithim You Need.
+
+
+
+
+
+
+
+
+Must Watch Video Before Use:
+
+https://www.youtube.com/watch?v=yzeybmFn2D0&t=217s&ab_channel=MarcusRose
+
+And Leave Creator Of Method For Modifed & Production Use:
+
+Marcus Rose,
+Or God Of War Marcus.
+
+
+DISCLAMIER: PLEASE DO NOT USE THIS IN ILLEGAL SENCE, OR YOU HAVE NO RIGHT TO USE IT.
+
+
+By Marcus Rose
